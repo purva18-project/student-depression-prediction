@@ -3,10 +3,6 @@ import streamlit as st
 
 st.write('Hello, *World!* :sunglasses:')
 
-git add app.py
-git commit -m "Trigger reindexing"
-git push origin main
-
 
 import streamlit as st
 import pickle  # or use import joblib if saved with joblib
